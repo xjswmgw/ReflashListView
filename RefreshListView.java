@@ -26,14 +26,7 @@ import com.nineoldandroids.animation.ValueAnimator;
 import com.nineoldandroids.animation.ValueAnimator.AnimatorUpdateListener;
 
 /**
- * @创建者	 伍碧林
- * @创时间 	 2015-12-21 下午4:49:51
- * @描述	     TODO
- *
- * @版本       $Rev: 64 $
- * @更新者     $Author: admin $
- * @更新时间    $Date: 2015-12-24 09:58:25 +0800 (周四, 24 十二月 2015) $
- * @更新描述    TODO
+ * @author	 MGW
  */
 public class RefreshListView extends ListView implements OnScrollListener, OnClickListener {
 	private static final String	TAG						= "RefreshListView";
